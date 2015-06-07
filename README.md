@@ -8,4 +8,6 @@ the Nanodegree program.
 
 ![Screenshot of My App Portfolio][screenshot]
 
-[screenshot]: https://raw.githubusercontent.com/deltaworld/android-app-portfolio/master/app/src/main/res/drawable/myAppPortfolioSS1.png "Screenshot of My Portfolio App"
+[screenshot]:
+https://raw.githubusercontent.com/deltaworld/android-app-portfolio/master/app/src/main/res/drawable/myAppPortfolioSS1.png
+"Screenshot of My Portfolio App"
